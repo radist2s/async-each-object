@@ -2,7 +2,7 @@ async.eachObject
 =========
 
 Simple async function to iterate objects.
-Extends async module.
+Extends [async](https://github.com/caolan/async) module.
 
 ## Install
 
